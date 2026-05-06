@@ -1,2 +1,31 @@
-# 8fa216f2-architecture-firm-project-and-
-Enterprise Notion workspace for architecture firms managing projects from design brief to construction completion. Features a project register with phase status, fee tracker, and client sign-off log. Includes a client brief database, design review schedule, drawing register with revision control, consultant coordination log, specification library, 
+# Architecture Firm Project and Client Management Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E00j4eP6Ake0047qcZa1x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E00j4eP6Ake0047qcZa1x)
+- [Buy on Gumroad](https://journalscribe7.gumroad.com/l/tiynhp)
+- [Buy on Whop](https://whop.com/architecture-firm-project-and-client-management-notion-template)
+
